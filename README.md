@@ -4,6 +4,12 @@
 
 **Senior Full Stack Developer** passionate about creating amazing digital experiences through clean, maintainable code and innovative solutions.
 
+## 🤝 Let's Connect
+
+[![Website](https://img.shields.io/badge/🌐%20Website-pritamrungta.github.io-blue?style=flat-square)](https://pritamrungta.github.io)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-pritamrungta-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pritamrungta)
+[![Twitter](https://img.shields.io/badge/🐦%20Twitter-pritamrungta-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/pritamrungta)
+
 ## 🚀 About Me
 
 - 🎯 **8+ years** of hands-on development experience
@@ -63,17 +69,9 @@ When I'm not coding, you'll find me:
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pritamrungta&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamrungta&theme=default&hide_border=true" />
 
-## 🤝 Let's Connect
-
-[![Website](https://img.shields.io/badge/🌐%20Website-pritamrungta.github.io-blue?style=flat-square)](https://pritamrungta.github.io)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-pritamrungta-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pritamrungta)
-[![Twitter](https://img.shields.io/badge/🐦%20Twitter-pritamrungta-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://www.x.com/pritamrungta)
-
 ---
 
 <div align="center">
-
-*"I believe in writing clean, maintainable code and following best practices to deliver robust solutions."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pritamrungta&color=blue&style=flat-square&label=Profile+Views)
 
