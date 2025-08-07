@@ -1,6 +1,6 @@
 # Hi there, I'm Pritam Rungta 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=2563EB&width=500&lines=Innovator;Full+Stack+Developer;DevOps+Guru;Problem+Solver;AI/ML+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=2563EB&width=500&lines=Innovator;Full+Stack+Developer;DevOps+Expert;Problem+Solver;AI/ML+Enthusiast" alt="Typing SVG" />
 
 **Senior Full Stack Developer** passionate about creating amazing digital experiences through clean, maintainable code and innovative solutions.
 
