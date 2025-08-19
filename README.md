@@ -66,7 +66,7 @@ When I'm not coding, you'll find me:
 
 ## 📊 GitHub Stats
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=pritamrungta&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://github-readme-stats-pritam-rungta.vercel.app/api?username=pritamrungta&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pritamrungta&theme=default&hide_border=true" />
 
 ---
